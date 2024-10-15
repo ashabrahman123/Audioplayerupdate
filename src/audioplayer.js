@@ -31,7 +31,7 @@ const time = sound.duration;
 const audioObj =[{
     imgg :kahanisunoimg,
     song : sound,
-    Name: "Kahani Suno ",
+    Name: "Kahani Suno,Zubani Sunu ",
     singer: "Kafi Khalil"
 },
 {
